@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="123593" started-at="2022-01-07T18:20:18 IST" finished-at="2022-01-07T18:22:22 IST">
+    <groups>
+    </groups>
+    <test name="Framework Test" duration-ms="123593" started-at="2022-01-07T18:20:18 IST" finished-at="2022-01-07T18:22:22 IST">
+      <class name="appiumframework.fameworkdev.SumOfProducts">
+        <test-method status="PASS" signature="killServer()[pri:0, instance:appiumframework.fameworkdev.SumOfProducts@76a3e297]" name="killServer" is-config="true" duration-ms="3017" started-at="2022-01-07T18:20:18 IST" finished-at="2022-01-07T18:20:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:appiumframework.fameworkdev.SumOfProducts@76a3e297]" name="totalValidation" duration-ms="42716" started-at="2022-01-07T18:20:21 IST" finished-at="2022-01-07T18:21:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shoes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- appiumframework.fameworkdev.SumOfProducts -->
+      <class name="appiumframework.fameworkdev.SetDate">
+        <test-method status="PASS" signature="timeSetting(java.lang.String)[pri:0, instance:appiumframework.fameworkdev.SetDate@612fc6eb]" name="timeSetting" duration-ms="38976" started-at="2022-01-07T18:21:04 IST" data-provider="getData" finished-at="2022-01-07T18:21:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeSetting -->
+        <test-method status="PASS" signature="timeSetting(java.lang.String)[pri:0, instance:appiumframework.fameworkdev.SetDate@612fc6eb]" name="timeSetting" duration-ms="38864" started-at="2022-01-07T18:21:43 IST" data-provider="getData" finished-at="2022-01-07T18:22:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeSetting -->
+      </class> <!-- appiumframework.fameworkdev.SetDate -->
+    </test> <!-- Framework Test -->
+  </suite> <!-- Suite -->
+</testng-results>

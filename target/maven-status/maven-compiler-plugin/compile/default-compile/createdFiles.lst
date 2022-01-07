@@ -1,0 +1,13 @@
+resources\Listener.class
+appiumframework\fameworkdev\Utilities.class
+ecommercePageObjects\LoginPage.class
+resources\ExtentReporterNG.class
+apiDemosPageObjects\DateWidgetPage.class
+appiumframework\fameworkdev\MobileCapabilities.class
+apiDemosPageObjects\PreferenceDependenciespage.class
+apiDemosPageObjects\ViewsPage.class
+ecommercePageObjects\ProductPage.class
+apiDemosPageObjects\InlinePage.class
+ecommercePageObjects\CartPage.class
+apiDemosPageObjects\HomePage.class
+apiDemosPageObjects\PreferencePage.class
